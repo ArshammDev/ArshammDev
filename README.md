@@ -8,7 +8,7 @@ My name is Arsham. I've been working as a programmer for the past 3 years. Curre
 - TypeScript
   
 # Social Media 🔗
-- Discord: [coming soon]
+- Nothing Yet
 
 # Open to Collaboration 🤝
 I'm always happy to collaborate on interesting projects. Feel free to reach out!
