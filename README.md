@@ -5,7 +5,7 @@ My name is Arsham. I've been working as a programmer for the past 3 years. Curre
 # Skills 💡
 - Python
 - JavaScript
-- Java
+- TypeScript
   
 # Social Media 🔗
 - Discord: [coming soon]
